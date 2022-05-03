@@ -1,0 +1,11 @@
+.input-error {
+    border: 2px solid red;
+}
+
+.input-error-message {
+    color: rgb(241, 14, 14);
+}
+
+.error-alert {
+    color: red;
+}
